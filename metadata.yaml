@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5058
     wikipedia: http://en.wikipedia.org/wiki/Marcus_Dods_%28theologian%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45843#Writings-in-Connection-with-the-Donatist-Controversy
 gutenberg_issued: '2014-05-31'
 gutenberg_type: Text
 identifiers:
